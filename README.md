@@ -24,4 +24,4 @@ This project involves:
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 ##  About Me
-  Helo, I’m Chethana — **IT professional** with **1.3 years** of experience in **Data Analysis** and strong skills in **SQL, Python, and Power BI**, currently focusing on **Data Engineering and Data Analysis**. This project demonstrates my SQL Data Warehouse work, and I am looking for opportunities to learn, contribute, and grow.
+  Helo, I’m Chethana — **IT professional** with **1.3 years** of experience in **Data Analysis** and strong skills in **SQL, Python and Power BI**, I'm currently focusing on **Data Engineering and Data Analysis**. This project demonstrates my SQL Data Warehouse work. I'm actively seeking opportunities where I can **add value through data**, **learn from real-world challenges** and **grow professionally**.
